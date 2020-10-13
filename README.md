@@ -6,6 +6,6 @@ Backend API written in Node,express,WebSocket,mongodb
 
 * git clone https://github.com/rindishkrishna/Blog-Backend.git
 
-* npm install
+* npm i
 
 * npm start
